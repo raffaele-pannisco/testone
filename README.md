@@ -20,7 +20,7 @@ github
 
 Follow the instructions in the PNG provided. Use the list of names in the JSON file.
 
-tools used:
+#Tools Used:
 
 grunt
 
