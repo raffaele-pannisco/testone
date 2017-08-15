@@ -9,23 +9,39 @@ Use the community.png file to write a single page app that fetches names and fil
 Use the following technology:
 
 HTML
+
 SCSS
+
 twitter bootstrap 3.0
+
 angular 1.4
+
 github
 
 Follow the instructions in the PNG provided. Use the list of names in the JSON file.
 
 tools used:
+
 grunt
+
 bootstrap 3
+
+sass
+
 angularjs 1.4.9
+
 bower
+
 node.js
+
 yeoman
+
 photoshop
+
 netbeans
+
 git
+
 
 # requirements
 search icon on click show the search input
