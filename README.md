@@ -29,11 +29,17 @@ git
 
 # requirements
 search icon on click show the search input
+
 hover on the cog icon will show a dropdown
+
 hover on the submit icon will show a tooltip
+
 filter names with input
+
 filter names alphabetically
+
 load more results on click
+
 
 
 
